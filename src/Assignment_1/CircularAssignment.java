@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+package Assignment_1;
 
 public class CircularAssignment {
 }
